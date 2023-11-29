@@ -3,31 +3,22 @@
 ### bd_jugueteria
 ### tbl_productos,  tbl_sucursales,  tbl_provedores
 ## inicio
-![image](https://github.com/jimebau/act_3/assets/143548070/6d77bfd7-c4cd-40f1-bc00-1d8a078e4456)
+![image](https://github.com/jimebau/act_3/assets/143548070/00255ebf-0724-41ca-98c8-fdd0bb624a74)
 ## tbl_productos
-![image](https://github.com/jimebau/act_3/assets/143548070/6b7f73e0-036f-4d7d-8f47-b458bf904542)
-![image](https://github.com/jimebau/act_3/assets/143548070/c08d4ed4-933d-44bb-ab7f-cd979861c04d)
-![image](https://github.com/jimebau/act_3/assets/143548070/bf43eba1-5069-48b4-a51e-81e43f856df7)
-![image](https://github.com/jimebau/act_3/assets/143548070/d10afddf-862c-421f-87c1-214f9409f7f3)
-![image](https://github.com/jimebau/act_3/assets/143548070/1911d7a0-8d2c-4b48-884d-779583958484)
+![image](https://github.com/jimebau/act_3/assets/143548070/19bbccc7-96fe-4f6e-94be-5217ddc7634c)
+![image](https://github.com/jimebau/act_3/assets/143548070/df51eeb8-9f87-40ed-a02f-816e93446b40)
 ## tbl_sucursales
-![image](https://github.com/jimebau/act_3/assets/143548070/d3fa712b-2c33-4bca-a2d3-c62fd2ad99d7)
-![image](https://github.com/jimebau/act_3/assets/143548070/39ce3e66-2275-4be2-ab57-624a6c86f6e9)
-![image](https://github.com/jimebau/act_3/assets/143548070/54406b82-e610-4140-8141-94ecf3941e8e)
-![image](https://github.com/jimebau/act_3/assets/143548070/8492193d-9496-4d9f-8cb5-7dbd0c3f01fb)
-![image](https://github.com/jimebau/act_3/assets/143548070/55215959-189c-415d-ae28-62ad999e0feb)
+![image](https://github.com/jimebau/act_3/assets/143548070/7f73955c-fc6c-44ac-8c18-901a9bcf9bdf)
+![image](https://github.com/jimebau/act_3/assets/143548070/2e65a92f-7d5c-421a-8639-4365accbca97)
 ## tbl_provedores
-![image](https://github.com/jimebau/act_3/assets/143548070/195e7485-d8ac-412e-b6b4-692104abe0ac)
-![image](https://github.com/jimebau/act_3/assets/143548070/23a5ad2d-967f-4ee8-9a76-ea4b8e37e19c)
-![image](https://github.com/jimebau/act_3/assets/143548070/d351fbc7-be69-4a31-8d22-78c8ecfe9659)
-![image](https://github.com/jimebau/act_3/assets/143548070/ee1c95c6-c29e-468d-8962-97fe4f994956)
-![image](https://github.com/jimebau/act_3/assets/143548070/8caa5650-fbf3-4076-a3d7-19a851f3746f)
+![image](https://github.com/jimebau/act_3/assets/143548070/5f816108-1cda-4dd0-a0a5-98d83af689e5)
+![image](https://github.com/jimebau/act_3/assets/143548070/2a8e54d7-33b3-4674-a3bc-2309c6c253ce)
 ## bd_jugueteria
 ### productos
-![image](https://github.com/jimebau/act_3/assets/143548070/b3d63e90-53d7-43bf-bb00-02c322af27b1)
+![image](https://github.com/jimebau/act_3/assets/143548070/0625ff8e-3292-425e-8a92-34d22d0e80f4)
 ### provedores
-![image](https://github.com/jimebau/act_3/assets/143548070/a24a3cce-59b7-4aab-8420-5abc47506190)
+![image](https://github.com/jimebau/act_3/assets/143548070/2dcf14cc-cd86-4600-b9c5-43f7d53773ef)
 ### sucursales
-![image](https://github.com/jimebau/act_3/assets/143548070/9f23eb98-8f6e-4002-8665-94f78266f324)
+![image](https://github.com/jimebau/act_3/assets/143548070/ae02f365-a75f-4202-ad50-e714fcdfcf84)
 
-gfgfgf
+
